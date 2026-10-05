@@ -247,6 +247,8 @@ No license has been specified for this prototype yet.
 
 ## Footer Copy
 
-**SKILLPULSE AI**  
-AI-Enabled Labour Market Intelligence & Skill Demand-Supply Forecasting  
+**SKILLPULSE AI**
+
+AI-Enabled Labour Market Intelligence & Skill Demand-Supply Forecasting
+
 Prototype for Smart India Hackathon 2026 · SIH26246
